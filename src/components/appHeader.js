@@ -2,6 +2,6 @@ import React from 'react';
 
 export const AppHeader = () => {
     return (
-      <h1>My ToDo LIST</h1>
+      <h1>My ToDo List</h1>
     );
   };
