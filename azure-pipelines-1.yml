@@ -16,4 +16,4 @@ steps:
   displayName: 'Install Node.js'
 
 - script: echo Hello DEVELOP
-  displayName: 'Say hello to develop branch'
+  displayName: 'Say hello to develop'
