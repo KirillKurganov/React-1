@@ -3,5 +3,5 @@ function f() {
 }
 
 it('first test', () => {
-  expect(f()).toEqual(true);
+  expect(f()).toEqual(false);
 });
